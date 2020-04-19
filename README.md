@@ -13,7 +13,7 @@ Link to Tableau Server: https://public.tableau.com/profile/vick.anand#!/vizhome/
 
 3) Understand current ride sharing business in Deomines Iowa to recommend whether to consider the investment 
 
-## Key Takeaways
+## Key Takeaway
 
 1) Population of Des Moines is only 0.2M vs. 8.3M New York
 
