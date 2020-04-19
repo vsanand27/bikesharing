@@ -1,5 +1,7 @@
 # Bike Share Investment Proposal in Des Moines, Iowa
 
+Link to Tableau Server: https://public.tableau.com/profile/vick.anand#!/vizhome/bikesharing_Challenge/BikeSharing-IntroSlide
+
 ## The purpose of this presentation is to evaluate investment proposal to develop ride-sharing Business in Des Monies, Iowa by performing the following tasks:
 
 1) Review population of Des Moines vs. New York  
