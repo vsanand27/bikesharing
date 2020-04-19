@@ -3,7 +3,7 @@ Develop data analytics and Visualization for new Citi Bike program in Des Moines
 
 # Bike Share Investment Proposal in Des Moines, Iowa
 
-Link to Tableau Server: https://public.tableau.com/profile/vick.anand#!/vizhome/bikesharing_Challenge/BikeSharing-IntroSlide
+Link to Tableau Server: https://public.tableau.com/profile/vick.anand#!/vizhome/bikesharing_Challenge/BikeShare-Challenge?publish=yes
 
 ## The purpose of this presentation is to evaluate investment proposal to develop ride-sharing Business in Des Monies, Iowa by performing the following tasks:
 
