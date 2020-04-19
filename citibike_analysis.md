@@ -30,7 +30,7 @@ The scope of this analysis is limited since we are not accounting for visitors t
 
 The Des Moines Area Trails consist of over 550 miles cycling including 170 miles of on-street cycle paths, which include 89.5 miles of bike lanes and shared markings, 23.2 miles of paved shoulders and 58 miles of quiet on-street riding. Off street, there are 224.5 miles of shared-use paths, both paved and unpaved. 
 
-![alt text](dES MOINES.png)
+![alt text](https://github.com/vsanand27/bikesharing/blob/master/Images/dES%20MOINES.PNG)
 
 ### Bike Sharing App
 
@@ -40,7 +40,7 @@ To perform ease of operations and gain market share.  Having an App on iphone or
     c) Ride Bike 
     d) Return a bike and record hours
 
-![alt text](Bike Sharring - APP)
+![alt text](https://github.com/vsanand27/bikesharing/blob/master/Images/Bike%20Sharring%20-%20APP.PNG)
 
 ## Population 
 
@@ -50,7 +50,7 @@ Reviewing 8 year population trends fromm 2010 - 2018, the population for Des Moi
 
 Impact of low Population: Volume of bike sharing demand originating from Des Moines population may be limited despite bike friendly city and sorrounding trails.   The actual volume will come from tourist visiting.
 
-![alt text](Des Moines Population trend)
+![alt text](https://github.com/vsanand27/bikesharing/blob/master/Images/Des%20Moines%20Population%20trend.PNG)
 
 ## 2. Population Density
 
@@ -62,7 +62,7 @@ Comparitively New York City: area is bigger and is navigable through out even wi
 
 Impact of low Population density: Population area outside downtown may not consider bike sharing as preferred source of transportation other than for leisure.  This will result in low volume of bike share demand from the local community.
 
-![alt text](Des Moines Population census)
+![alt text](https://github.com/vsanand27/bikesharing/blob/master/Images/Des%20Moines%20Population%20census.PNG)
 
 ## 3. Population Median Household Income
 
@@ -70,7 +70,7 @@ Des Moines, Iowa population has low median household income and the area is disp
 
 Impact of Low Median Household Income: Des Moines population may not have discretionary income to spend on sporty and recreational items like Bike.  Bike Sharing program may apply to mainly tourist who are there for outdoor activities.
 
-![alt text](Median Household Income)
+![alt text](https://github.com/vsanand27/bikesharing/blob/master/Images/Median%20Household%20Income.PNG)
 
 ## 4. Average Daily Rate and low Density of Population
 
@@ -82,7 +82,7 @@ Link to Source: https://www.opploans.com/content/research/how-much-does-your-cit
 
 Impact to Bike Share Program: In Des Moines margins will be lower with the result break-even will be harder to achieve given utilization of bikes may be higher due to low density of Population.  Many people will be riding either in down-time or on the trails resulting in higher Utilization
 
-![alt text](ADR)
+![alt text](https://github.com/vsanand27/bikesharing/blob/master/Images/ADR.PNG)
 
 ## 5. High Competition from Existing Bike Share vendors
 
@@ -90,13 +90,13 @@ B-Cycle shop one of the main competitors in the area with over 20 stations and 1
 
 Impact to Bike Share Program:  With low population of only 216K and low density and high competiton, it will be more expensive to obtain new customer.  This may require heavy discounting of program and negative cash flows
 
-![alt text](competition)
+![alt text](https://github.com/vsanand27/bikesharing/blob/master/Images/competition.PNG)
 
 ## 6. High Competition and Bike Sharing Pricing
 
 Monthly & Annual Memberships - even though fee is minimal. However, each additional hour after 1 hour is at $2 per hour + Tax.  Though pricing structure looks attractive for investment.  Avg. Bike Sharing price for 8 hours was $6 per research.  This means Bike Sharing companies are heavily discounting thier prices to win market share.
 
-![alt text](competition pricing structure)
+![alt text](https://github.com/vsanand27/bikesharing/blob/master/Images/competition%20pricing%20structure.PNG)
 
 
 # Conclusion: Soley based on Population, we propose to not invest in the bikesharing business.  
